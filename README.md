@@ -1,5 +1,5 @@
-#  C and Python Program
+#  C and Python Programs
 
-## These are the some C  and Python program . 
-## This repo inlcude some of simple and mainly written C program for learner also.
-## This help to understand the simple logic of  C and Python program.
+## These are the some C  and Python programs . 
+## This repo inlcude some of simple and mainly written C programs for learner also.
+## This help to understand the simple logic of  C and Python programs.
