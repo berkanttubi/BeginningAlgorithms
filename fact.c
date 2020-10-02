@@ -1,21 +1,20 @@
 #include<stdio.h>
 
+int main()
+    {
 
-int main(){
-
-    int number,fact=1,i;
+    int fact,i,n;
+    fact = 1;
 
     printf("Enter the number: ");
-    scanf("%d",&number);
+    scanf("%d",&n);
 
-    for (i=0; i<number ; i++){
+    for (i=0; i<n ; i++){
 
-        fact=fact*number*(number-1);
-        number-=2;
+       fact = fact*i;
     }
 
-    printf("%d",fact);
-
+      printf("Factorial of %d is %d", n , fact);
 
     return 0;
 }
